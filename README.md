@@ -1,6 +1,15 @@
+
 Hi, I’m Preston. I build AI agents and the infrastructure they run on.
 
 The first was an assistant that read my inbox and booked meetings for me. Next, I built one that makes outbound phone calls and holds a real speech-to-speech conversation. Another one ordered a pizza and paid with a single-use virtual card (I happened to win a hackathon with that one). I built that one mostly to see what breaks when an agent has to spend real money.
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/50755b2b-d7c5-45fe-a0c7-f300361438e1"
+    alt="AI agent ordering coffee"
+    width="85%"
+  />
+</p>
 
 Now I spend more of my time on what sits underneath them: the memory and context services they read from, the messaging gateways they send through, and the pipelines that let them run on a schedule instead of waiting for me to ask.
 

@@ -23,8 +23,7 @@ The first was an assistant that read my inbox and booked meetings for me. Next, 
   </a>
 </p>
 
-Beyond agents, I also [build a lot of the software and infrastructure I use myself](https://prestonkwei.com/writing/the-saas-chopping-block). I've built my own alternative to Vercel for deploying applications, a native macOS presentation editor, a clipboard manager, and a chart editor. I also work on identity and authentication, APIs, databases, and internal platforms that people use every day.
-
+Beyond agents, I [build a lot of the software and infrastructure I use myself](https://prestonkwei.com/writing/the-saas-chopping-block). I've built my own alternative to Vercel for deploying applications, a native macOS PowerPoint and Keynote alternative that combines my favorite features of both, a clipboard manager, and a chart editor. 
 <table>
   <tr>
     <td width="50%">
@@ -63,5 +62,7 @@ Beyond agents, I also [build a lot of the software and infrastructure I use myse
     </td>
   </tr>
 </table>
+Much of my work revolves around AI, from experimenting with new models and capabilities to building the memory systems, tools, and infrastructure that make agents useful in the real world.
+
 
 [prestonkwei.com](https://prestonkwei.com) · [LinkedIn](https://linkedin.com/in/prestonkwei) · [X](https://x.com/prestonkwei)

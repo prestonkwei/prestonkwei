@@ -23,8 +23,45 @@ The first was an assistant that read my inbox and booked meetings for me. Next, 
   </a>
 </p>
 
-Now I spend more of my time on what sits underneath them: the memory and context services they read from, the messaging gateways they send through, and the pipelines that let them run on a schedule instead of waiting for me to ask.
+Beyond agents, I also [build a lot of the software and infrastructure I use myself](https://prestonkwei.com/writing/the-saas-chopping-block). I've built my own alternative to Vercel for deploying applications, a native macOS presentation editor, a clipboard manager, and a chart editor. I also work on identity and authentication, APIs, databases, and internal platforms that people use every day.
 
-I also work on identity and auth, developer tooling, and a few internal platforms that people use every day.
+<table>
+  <tr>
+    <td width="50%">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github.com/user-attachments/assets/296fc3b4-6d40-42cf-8b4f-1cac343949cd"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://github.com/user-attachments/assets/38be7f56-ed72-44ce-9d10-cf0fe0dc456d"
+        />
+        <img
+          src="https://github.com/user-attachments/assets/38be7f56-ed72-44ce-9d10-cf0fe0dc456d"
+          alt="Deployment dashboard showing production and preview deployments, build statuses, Git branches, commit history, and deployment times"
+          width="100%"
+        />
+      </picture>
+    </td>
+    <td width="50%">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github.com/user-attachments/assets/ecb2d575-20c8-4f61-9010-6e54a9bf9ff5"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://github.com/user-attachments/assets/e32a4b7a-7258-4a91-9495-c9896f45776e"
+        />
+        <img
+          src="https://github.com/user-attachments/assets/e32a4b7a-7258-4a91-9495-c9896f45776e"
+          alt="Infrastructure usage dashboard showing AWS costs, build activity, serverless function requests, storage expenses, and per-project spending"
+          width="100%"
+        />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 [prestonkwei.com](https://prestonkwei.com) · [LinkedIn](https://linkedin.com/in/prestonkwei) · [X](https://x.com/prestonkwei)
